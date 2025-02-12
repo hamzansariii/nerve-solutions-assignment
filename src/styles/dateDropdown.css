@@ -1,0 +1,14 @@
+.box {
+  border: 3px solid #f8f8fa;
+  padding: 10px;
+  border-radius: 15px;
+  margin: 5px;
+  cursor: pointer;
+}
+
+.box.main-select-box {
+  display: flex;
+  justify-content: space-around;
+  padding: 10px;
+  width: 100%;
+}

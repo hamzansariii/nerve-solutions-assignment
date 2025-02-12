@@ -1,0 +1,17 @@
+.tab {
+  background: none;
+  border: none;
+  color: #92929b;
+  margin: 10px;
+  padding: 5px 20px 5px 20px;
+  border-radius: 10px;
+  outline: none;
+  cursor: pointer;
+}
+
+.tab-selected {
+  background: blue;
+  font-weight: bold;
+  color: white;
+  border: 0px;
+}

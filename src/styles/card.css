@@ -1,0 +1,18 @@
+.card {
+  border: 3px solid #f8f8fa;
+  padding: 15px;
+  border-radius: 15px;
+  margin: 5px;
+  display: flex;
+  justify-content: space-between;
+  cursor: pointer;
+}
+
+.dot {
+  display: inline-block;
+  width: 5px;
+  height: 5px;
+  border-radius: 50%;
+  background-color: #92929b;
+  margin: 2px;
+}
